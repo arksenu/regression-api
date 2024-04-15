@@ -3,8 +3,8 @@ export const APP_ID = `${process.env.NEXT_PUBLIC_APP_ID}`
 export const API_KEY = `${process.env.NEXT_PUBLIC_APP_KEY}`
 export const API_URL = `${process.env.NEXT_PUBLIC_API_URL}`
 export const APP_INFO: AppInfo = {
-  title: 'Text Generator APP',
-  description: 'App description',
+  title: 'Regression API UI',
+  description: 'provides advanced stock price analysis, leveraging regression models to analyze financial and user-provided datasets to uncover correlations and perform predictive analytics',
   copyright: '',
   privacy_policy: '',
   default_language: 'zh-Hans',
