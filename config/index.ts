@@ -7,7 +7,7 @@ export const APP_INFO: AppInfo = {
   description: 'provides advanced stock price analysis, leveraging regression models to analyze financial and user-provided datasets to uncover correlations and perform predictive analytics',
   copyright: '',
   privacy_policy: '',
-  default_language: 'zh-Hans',
+  default_language: 'en-US',
 }
 
 export const API_PREFIX = '/api'
